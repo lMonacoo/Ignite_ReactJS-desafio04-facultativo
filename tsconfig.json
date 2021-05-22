@@ -1,0 +1,37 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "jsx": "react-jsx",
+    "lib": [
+      "es6",
+      "DOM",
+      "DOM.Iterable",
+      "ESNext"
+    ],
+    "moduleResolution": "node",
+    "noEmit": true,
+    "target": "es5",
+    "noImplicitAny": false,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext",
+    "resolveJsonModule": true
+  },
+  // "extends": "./tsconfig.paths.json",
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "src"
+  ],
+  // "paths": {
+  //   "@component/*": [
+  //     "src/components/*"
+  //   ]
+  // }
+}

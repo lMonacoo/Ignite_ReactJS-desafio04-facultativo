@@ -44,6 +44,16 @@
     ]
   },
   "devDependencies": {
-    "json-server": "^0.16.3"
+    "@craco/craco": "^6.1.2",
+    "@types/jest": "^26.0.15",
+    "@types/node": "^12.0.0",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@types/react-modal": "^3.12.0",
+    "@types/react-router-dom": "^5.1.7",
+    "@types/styled-components": "^5.1.9",
+    "craco-alias": "^3.0.0",
+    "json-server": "^0.16.3",
+    "typescript": "^4.2.4"
   }
 }
